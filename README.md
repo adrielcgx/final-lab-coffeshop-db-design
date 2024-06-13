@@ -1,5 +1,5 @@
 # IBM Introduction to Relational Databases 
-# Final Laboratory
+## Final Laboratory
 
 ### Scenario
 <p>
